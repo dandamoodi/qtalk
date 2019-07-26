@@ -2,4 +2,4 @@
 
 F1
 
-Session is going on 
+Session is going on.
